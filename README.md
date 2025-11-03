@@ -1,6 +1,8 @@
-# Overpass Query Builder
+# Easy Overpass
 
 A user-friendly web interface for building Overpass QL queries to extract data from OpenStreetMap.
+
+Demo https://yopaseopor.github.io/easyoverpass
 
 ![Screenshot](screenshot.png)
 
